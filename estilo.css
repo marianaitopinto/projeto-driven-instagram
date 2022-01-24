@@ -111,7 +111,7 @@ body {
     
 } 
 .foto2{
-    background: url("/arquivos/stories_background.jpg");
+    background: url("./arquivos/stories_background.jpg");
     background-repeat: no-repeat;
     background-size: 66px;
     border-radius: 33px;
